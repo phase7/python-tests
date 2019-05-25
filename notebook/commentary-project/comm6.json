@@ -1,0 +1,4685 @@
+{
+  "commentary": {
+    "count": 313,
+    "pageCount": 13,
+    "pageSize": 25,
+    "items": [
+      {
+        "text": "tossed up on stumps, driven through extra cover for a single",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 51,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 65
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 20.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 20.1,
+          "ball": 1,
+          "number": 21,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 20.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "120010",
+        "speedKPH": "86.963",
+        "mediaId": 0,
+        "speedMPH": "54.036",
+        "shortText": "Mavuta to Mohammad Mithun, 1 run",
+        "sequence": 102001,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "89/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.41,
+          "fallOfWickets": 0,
+          "balls": 121,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 89,
+          "remainingBalls": 179,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 22,
+          "maidens": 0,
+          "overs": 4.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 25
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 12,
+          "runs": 89,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 18
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          },
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          }
+        ]
+      },
+      {
+        "text": "length ball, around middle and leg, defended towards square leg",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 12,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 18
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 20.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 20.2,
+          "ball": 2,
+          "number": 21,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 20.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "120020",
+        "speedKPH": "84.830",
+        "mediaId": 0,
+        "speedMPH": "52.711",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 102002,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "89/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.37,
+          "fallOfWickets": 0,
+          "balls": 122,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 89,
+          "remainingBalls": 178,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 22,
+          "maidens": 0,
+          "overs": 4.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 26
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 51,
+          "runs": 89,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 66
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length again, on the pads, worked around the corner this time",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 12,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 18
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 20.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 20.3,
+          "ball": 3,
+          "number": 21,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 20.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "120030",
+        "speedKPH": "87.683",
+        "mediaId": 0,
+        "speedMPH": "54.484",
+        "shortText": "Mavuta to Imrul Kayes, 1 run",
+        "sequence": 102003,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "90/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.39,
+          "fallOfWickets": 0,
+          "balls": 123,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 90,
+          "remainingBalls": 177,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 23,
+          "maidens": 0,
+          "overs": 4.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 27
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 52,
+          "runs": 90,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 67
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "fuller outside off, Mithun looks to go big down the ground but ends up dragging it towards mid-on",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 52,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 67
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 20.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 20.4,
+          "ball": 4,
+          "number": 21,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 20.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "120040",
+        "speedKPH": "80.511",
+        "mediaId": 0,
+        "speedMPH": "50.027",
+        "shortText": "Mavuta to Mohammad Mithun, 1 run",
+        "sequence": 102004,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "91/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.4,
+          "fallOfWickets": 0,
+          "balls": 124,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 91,
+          "remainingBalls": 176,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 24,
+          "maidens": 0,
+          "overs": 4.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 28
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 13,
+          "runs": 91,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          },
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          }
+        ]
+      },
+      {
+        "text": "length ball, just outside off, defended",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 13,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 20.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 20.5,
+          "ball": 5,
+          "number": 21,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 20.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "120050",
+        "speedKPH": "84.503",
+        "mediaId": 0,
+        "speedMPH": "52.508",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 102005,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "91/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.36,
+          "fallOfWickets": 0,
+          "balls": 125,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 91,
+          "remainingBalls": 175,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 24,
+          "maidens": 0,
+          "overs": 4.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 29
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 52,
+          "runs": 91,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 68
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "down the track, looks to go over the top but ends up skying it towards deep extra cover, falls short of the fielder",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 13,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 20.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 20.6,
+          "ball": 6,
+          "number": 21,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 20.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "120060",
+        "speedKPH": "84.016",
+        "mediaId": 0,
+        "speedMPH": "52.205",
+        "shortText": "Mavuta to Imrul Kayes, 1 run",
+        "sequence": 102006,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "92/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.38,
+          "fallOfWickets": 0,
+          "balls": 126,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 92,
+          "remainingBalls": 174,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 30
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 53,
+          "runs": 92,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 69
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "fuller on stumps, tucked away towards short fine leg",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 13,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 21.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 21.1,
+          "ball": 1,
+          "number": 22,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 21.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "121010",
+        "speedKPH": "102.646",
+        "mediaId": 0,
+        "speedMPH": "63.781",
+        "shortText": "Sikandar Raza to Imrul Kayes, 1 run",
+        "sequence": 102101,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "93/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.39,
+          "fallOfWickets": 0,
+          "balls": 127,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 93,
+          "remainingBalls": 173,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 8,
+          "maidens": 0,
+          "overs": 2.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 13
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 54,
+          "runs": 93,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 70
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "fuller and wide this time, hit firmly but cover fielder cuts it off",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 54,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 70
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 21.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 21.2,
+          "ball": 2,
+          "number": 22,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 21.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "121020",
+        "speedKPH": "88.192",
+        "mediaId": 0,
+        "speedMPH": "54.800",
+        "shortText": "Sikandar Raza to Mohammad Mithun, no run",
+        "sequence": 102102,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "93/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.35,
+          "fallOfWickets": 0,
+          "balls": 128,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 93,
+          "remainingBalls": 172,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 8,
+          "maidens": 0,
+          "overs": 2.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 14
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 13,
+          "runs": 93,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 20
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "length ball, around middle and leg, pushed towards fine leg",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 54,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 70
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 21.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 21.3,
+          "ball": 3,
+          "number": 22,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 21.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "121030",
+        "speedKPH": "90.542",
+        "mediaId": 0,
+        "speedMPH": "56.260",
+        "shortText": "Sikandar Raza to Mohammad Mithun, no run",
+        "sequence": 102103,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "93/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.32,
+          "fallOfWickets": 0,
+          "balls": 129,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 93,
+          "remainingBalls": 171,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 8,
+          "maidens": 0,
+          "overs": 2.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 15
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 13,
+          "runs": 93,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 21
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "length outside off, pushed towards extra cover off the front foot",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 54,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 70
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 21.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 21.4,
+          "ball": 4,
+          "number": 22,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 21.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "121040",
+        "speedKPH": "101.310",
+        "mediaId": 0,
+        "speedMPH": "62.951",
+        "shortText": "Sikandar Raza to Mohammad Mithun, no run",
+        "sequence": 102104,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "93/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.29,
+          "fallOfWickets": 0,
+          "balls": 130,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 93,
+          "remainingBalls": 170,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 8,
+          "maidens": 0,
+          "overs": 2.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 16
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 13,
+          "runs": 93,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 22
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "long hop and Mithun takes full advantage of that, pulls it over deep midwicket for a six with a lot of power",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 54,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 70
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 21.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 21.5,
+          "ball": 5,
+          "number": 22,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 21.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "121050",
+        "speedKPH": "81.183",
+        "mediaId": 0,
+        "speedMPH": "50.445",
+        "shortText": "Sikandar Raza to Mohammad Mithun, SIX runs",
+        "sequence": 102105,
+        "preText": "",
+        "scoreValue": 6,
+        "homeScore": "99/3",
+        "playType": {
+          "id": "4",
+          "description": "six"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.53,
+          "fallOfWickets": 0,
+          "balls": 131,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 6,
+          "runs": 99,
+          "remainingBalls": 169,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 2.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 17
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 19,
+          "runs": 99,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 23
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "length ball, just outside off, defended this time by Mithun",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 54,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 70
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 21.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 21.6,
+          "ball": 6,
+          "number": 22,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 21.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "121060",
+        "speedKPH": "83.782",
+        "mediaId": 0,
+        "speedMPH": "52.060",
+        "shortText": "Sikandar Raza to Mohammad Mithun, no run",
+        "sequence": 102106,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "99/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.5,
+          "fallOfWickets": 0,
+          "balls": 132,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 99,
+          "remainingBalls": 168,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 19,
+          "runs": 99,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "a low full toss on leg stump, Imrul looks to work it inside out, couldn't get it past the extra cover fielder",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 19,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 22.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 13,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 22.1,
+          "ball": 1,
+          "number": 23,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 22.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "122010",
+        "speedKPH": "85.361",
+        "mediaId": 0,
+        "speedMPH": "53.041",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 102201,
+        "preText": "Zmn: \"On \"unpredictable\" Mirpur pitch, toss winning team should take bowling first. I don't understand why Mash opted to bat first to take unnecessary pressure on his team.\"",
+        "scoreValue": 0,
+        "homeScore": "99/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.46,
+          "fallOfWickets": 0,
+          "balls": 133,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 99,
+          "remainingBalls": 167,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 31
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 54,
+          "runs": 99,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 71
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "fuller once again, pushed back towards the bowler",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 19,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 22.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 13,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 22.2,
+          "ball": 2,
+          "number": 23,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 22.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "122020",
+        "speedKPH": "79.490",
+        "mediaId": 0,
+        "speedMPH": "49.393",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 102202,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "99/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.43,
+          "fallOfWickets": 0,
+          "balls": 134,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 99,
+          "remainingBalls": 166,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 32
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 54,
+          "runs": 99,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 72
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length ball, just outside off, Imrul steers it to short third man",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 19,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 22.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 13,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 22.3,
+          "ball": 3,
+          "number": 23,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 22.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "122030",
+        "speedKPH": "86.087",
+        "mediaId": 0,
+        "speedMPH": "53.492",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 102203,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "99/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.4,
+          "fallOfWickets": 0,
+          "balls": 135,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 99,
+          "remainingBalls": 165,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 5.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 33
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 54,
+          "runs": 99,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 1,
+          "faced": 73
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "goes for the slog sweep and splits the gap in the deep, there was a backward square leg and deep midwicket in place but Imrul bisects them perfectly for a maximum. 100 comes up for Bangladesh with that six",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 19,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 22.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 13,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 22.4,
+          "ball": 4,
+          "number": 23,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 22.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "122040",
+        "speedKPH": "78.773",
+        "mediaId": 0,
+        "speedMPH": "48.947",
+        "shortText": "Mavuta to Imrul Kayes, SIX runs",
+        "sequence": 102204,
+        "preText": "",
+        "scoreValue": 6,
+        "homeScore": "105/3",
+        "playType": {
+          "id": "4",
+          "description": "six"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.63,
+          "fallOfWickets": 0,
+          "balls": 136,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 6,
+          "runs": 105,
+          "remainingBalls": 164,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 31,
+          "maidens": 0,
+          "overs": 5.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 34
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 60,
+          "runs": 105,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 2,
+          "faced": 74
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "back to back sixes, it was short, just outside off, Imrul went deep and pulled it over midwicket this time",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 19,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 22.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 13,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 22.5,
+          "ball": 5,
+          "number": 23,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 22.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "122050",
+        "speedKPH": "90.575",
+        "mediaId": 0,
+        "speedMPH": "56.281",
+        "shortText": "Mavuta to Imrul Kayes, SIX runs",
+        "sequence": 102205,
+        "preText": "",
+        "scoreValue": 6,
+        "homeScore": "111/3",
+        "playType": {
+          "id": "4",
+          "description": "six"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.86,
+          "fallOfWickets": 0,
+          "balls": 137,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 6,
+          "runs": 111,
+          "remainingBalls": 163,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 37,
+          "maidens": 0,
+          "overs": 5.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 35
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 66,
+          "runs": 111,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 75
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "googly on the pads, played gently towards square leg for a quick single",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 19,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 22.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 13,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 22.6,
+          "ball": 6,
+          "number": 23,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 22.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "122060",
+        "speedKPH": "83.528",
+        "mediaId": 0,
+        "speedMPH": "51.902",
+        "shortText": "Mavuta to Imrul Kayes, 1 run",
+        "sequence": 102206,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "112/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.86,
+          "fallOfWickets": 0,
+          "balls": 138,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 112,
+          "remainingBalls": 162,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 38,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 36
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 67,
+          "runs": 112,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 76
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length ball, pushed towards long-off for a single",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 19,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 23.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 23.1,
+          "ball": 1,
+          "number": 24,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 23.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "123010",
+        "speedKPH": "90.617",
+        "mediaId": 0,
+        "speedMPH": "56.307",
+        "shortText": "Sikandar Raza to Imrul Kayes, 1 run",
+        "sequence": 102301,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "113/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.87,
+          "fallOfWickets": 0,
+          "balls": 139,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 113,
+          "remainingBalls": 161,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 15,
+          "maidens": 0,
+          "overs": 3.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 19
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 38,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 36
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 68,
+          "runs": 113,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 77
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "short and wide and Mithun cuts it past short third man, sweeper cover puts in the full-length dive to prevent a boundary",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 68,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 77
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 23.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 23.2,
+          "ball": 2,
+          "number": 24,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 23.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "123020",
+        "speedKPH": "83.961",
+        "mediaId": 0,
+        "speedMPH": "52.171",
+        "shortText": "Sikandar Raza to Mohammad Mithun, 2 runs",
+        "sequence": 102302,
+        "preText": "Ron: \"Am I the only one confused about Imrul's role in the team? Enforcer or anchor? Those 2 sixes made it even more confusing...\"",
+        "scoreValue": 2,
+        "homeScore": "115/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.92,
+          "fallOfWickets": 0,
+          "balls": 140,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 2,
+          "runs": 115,
+          "remainingBalls": 160,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 3.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 20
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 38,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 36
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 21,
+          "runs": 115,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 25
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "pitched up this time and driven towards deep extra cover for two more",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 68,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 77
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 23.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 23.3,
+          "ball": 3,
+          "number": 24,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 23.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "123030",
+        "speedKPH": "81.356",
+        "mediaId": 0,
+        "speedMPH": "50.552",
+        "shortText": "Sikandar Raza to Mohammad Mithun, 2 runs",
+        "sequence": 102303,
+        "preText": "",
+        "scoreValue": 2,
+        "homeScore": "117/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.97,
+          "fallOfWickets": 0,
+          "balls": 141,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 2,
+          "runs": 117,
+          "remainingBalls": 159,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 19,
+          "maidens": 0,
+          "overs": 3.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 21
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 38,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 36
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 23,
+          "runs": 117,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 26
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "fuller again and driven, a fumble by the man at extra cover allows a single in the end",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 68,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 77
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 23.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 23.4,
+          "ball": 4,
+          "number": 24,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 23.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "123040",
+        "speedKPH": "86.824",
+        "mediaId": 0,
+        "speedMPH": "53.950",
+        "shortText": "Sikandar Raza to Mohammad Mithun, 1 run",
+        "sequence": 102304,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "118/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.98,
+          "fallOfWickets": 0,
+          "balls": 142,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 118,
+          "remainingBalls": 158,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 20,
+          "maidens": 0,
+          "overs": 3.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 22
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 38,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 36
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 24,
+          "runs": 118,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 27
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          }
+        ]
+      },
+      {
+        "text": "fuller outside off, driven, Raza makes a diving stop to his right",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 24,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 27
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 23.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 23.5,
+          "ball": 5,
+          "number": 24,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 23.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "123050",
+        "speedKPH": "84.632",
+        "mediaId": 0,
+        "speedMPH": "52.588",
+        "shortText": "Sikandar Raza to Imrul Kayes, no run",
+        "sequence": 102305,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "118/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.95,
+          "fallOfWickets": 0,
+          "balls": 143,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 118,
+          "remainingBalls": 157,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 20,
+          "maidens": 0,
+          "overs": 3.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 23
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 38,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 36
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 68,
+          "runs": 118,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 78
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "tossed up on stumps, played inside out towards extra cover",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 24,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 27
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 23.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 23.6,
+          "ball": 6,
+          "number": 24,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 23.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "123060",
+        "speedKPH": "80.876",
+        "mediaId": 0,
+        "speedMPH": "50.254",
+        "shortText": "Sikandar Raza to Imrul Kayes, no run",
+        "sequence": 102306,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "118/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.91,
+          "fallOfWickets": 0,
+          "balls": 144,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 118,
+          "remainingBalls": 156,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 20,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 38,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 36
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 68,
+          "runs": 118,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 79
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "starts with a down the leg side wide",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 68,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 5,
+          "sixes": 3,
+          "faced": 79
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 1,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 24.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 24.0,
+          "ball": 1,
+          "number": 25,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 24.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "124010",
+        "speedKPH": "88.007",
+        "mediaId": 0,
+        "speedMPH": "54.685",
+        "shortText": "Williams to Mohammad Mithun, 1 wide",
+        "sequence": 102401,
+        "preText": "Sean Williamson comes on.\nkhan: \"Imrul is playing his natural game, let him play like this until 40th over. \"",
+        "scoreValue": 1,
+        "homeScore": "119/3",
+        "playType": {
+          "id": "6",
+          "description": "wide"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.95,
+          "fallOfWickets": 0,
+          "balls": 144,
+          "byes": 0,
+          "wides": 1,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 119,
+          "remainingBalls": 156,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 1,
+          "maidens": 0,
+          "overs": 0.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 0
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 24,
+          "runs": 119,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 1,
+          "sixes": 1,
+          "faced": 27
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      }
+    ],
+    "pageIndex": 6
+  }
+}

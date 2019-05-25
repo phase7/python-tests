@@ -1,0 +1,4685 @@
+{
+  "commentary": {
+    "count": 313,
+    "pageCount": 13,
+    "pageSize": 25,
+    "items": [
+      {
+        "text": "turns this gently towards the man coming in from deep square leg.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 89,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 110
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 36.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 36.2,
+          "ball": 2,
+          "number": 37,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 36.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "136020",
+        "speedKPH": "81.346",
+        "mediaId": 0,
+        "speedMPH": "50.546",
+        "shortText": "Mavuta to Mohammad Saifuddin, 1 run",
+        "sequence": 103602,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "166/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.56,
+          "fallOfWickets": 0,
+          "balls": 218,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 166,
+          "remainingBalls": 82,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 40,
+          "maidens": 0,
+          "overs": 6.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 38
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 9,
+          "runs": 166,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 22
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "spins back in to beat the tickle down leg, Taylor fumbles and they get across for a bye as well, so two more to the score.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 9,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 22
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 2,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 36.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 36.2,
+          "ball": 3,
+          "number": 37,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 36.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "136030",
+        "speedKPH": "76.405",
+        "mediaId": 0,
+        "speedMPH": "47.476",
+        "shortText": "Mavuta to Imrul Kayes, 2 wides",
+        "sequence": 103603,
+        "preText": "",
+        "scoreValue": 2,
+        "homeScore": "168/6",
+        "playType": {
+          "id": "6",
+          "description": "wide"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.62,
+          "fallOfWickets": 0,
+          "balls": 218,
+          "byes": 0,
+          "wides": 2,
+          "id": "209641",
+          "totalRuns": 2,
+          "runs": 168,
+          "remainingBalls": 82,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 42,
+          "maidens": 0,
+          "overs": 6.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 38
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 89,
+          "runs": 168,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 110
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "squeezes this yorker-length delivery back to the bowler.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 89,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 110
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 36.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 36.3,
+          "ball": 4,
+          "number": 37,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 36.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "136040",
+        "speedKPH": "88.488",
+        "mediaId": 0,
+        "speedMPH": "54.984",
+        "shortText": "Mavuta to Mohammad Saifuddin, no run",
+        "sequence": 103604,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "168/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.6,
+          "fallOfWickets": 0,
+          "balls": 219,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 168,
+          "remainingBalls": 81,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 42,
+          "maidens": 0,
+          "overs": 6.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 39
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 9,
+          "runs": 168,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 23
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "goes right back into the crease to turn this tossed up delivery into the leg side.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 89,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 110
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 36.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 36.4,
+          "ball": 5,
+          "number": 37,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 36.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "136050",
+        "speedKPH": "87.207",
+        "mediaId": 0,
+        "speedMPH": "54.188",
+        "shortText": "Mavuta to Mohammad Saifuddin, no run",
+        "sequence": 103605,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "168/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.58,
+          "fallOfWickets": 0,
+          "balls": 220,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 168,
+          "remainingBalls": 80,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 42,
+          "maidens": 0,
+          "overs": 6.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 40
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 9,
+          "runs": 168,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 24
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "right behind the line as he defends.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 89,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 110
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 36.06,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 36.5,
+          "ball": 6,
+          "number": 37,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 36.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "136060",
+        "speedKPH": "87.840",
+        "mediaId": 0,
+        "speedMPH": "54.581",
+        "shortText": "Mavuta to Mohammad Saifuddin, no run",
+        "sequence": 103606,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "168/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.56,
+          "fallOfWickets": 0,
+          "balls": 221,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 168,
+          "remainingBalls": 79,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 42,
+          "maidens": 0,
+          "overs": 6.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 41
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "Tafadzwa Mareya: \"Hummy must now gamble. The magic man Jarvis is left with very few overs. Either he can bring him back to break partnership, or save him for death.\"",
+        "batsman": {
+          "totalRuns": 9,
+          "runs": 168,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 25
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "makes a bit of room and cuts to deep point.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 89,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 110
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 36.07,
+          "complete": true,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 36.6,
+          "ball": 7,
+          "number": 37,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 36.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "136070",
+        "speedKPH": "88.124",
+        "mediaId": 0,
+        "speedMPH": "54.758",
+        "shortText": "Mavuta to Mohammad Saifuddin, 1 run",
+        "sequence": 103607,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "169/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.56,
+          "fallOfWickets": 0,
+          "balls": 222,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 169,
+          "remainingBalls": 78,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 42
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 10,
+          "runs": 169,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 26
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "drops short, so he rocks back and pulls all along the ground to deep midwicket",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 89,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 110
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 37.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 3,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 37.1,
+          "ball": 1,
+          "number": 38,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 37.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "137010",
+        "speedKPH": "85.694",
+        "mediaId": 0,
+        "speedMPH": "53.248",
+        "shortText": "Williams to Mohammad Saifuddin, 1 run",
+        "sequence": 103701,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "170/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.57,
+          "fallOfWickets": 0,
+          "balls": 223,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 170,
+          "remainingBalls": 77,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 15,
+          "maidens": 0,
+          "overs": 4.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 25
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 42
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 11,
+          "runs": 170,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 27
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "rocks back and crashes this short delivery to sweeper cover.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 11,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 27
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 37.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 3,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 37.2,
+          "ball": 2,
+          "number": 38,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 37.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "137020",
+        "speedKPH": "87.202",
+        "mediaId": 0,
+        "speedMPH": "54.185",
+        "shortText": "Williams to Imrul Kayes, 1 run",
+        "sequence": 103702,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "171/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.58,
+          "fallOfWickets": 0,
+          "balls": 224,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 171,
+          "remainingBalls": 76,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 4.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 26
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 42
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 90,
+          "runs": 171,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "athletesInvolved": [
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "punches this straight to short midwicket",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 37.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 3,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 37.3,
+          "ball": 3,
+          "number": 38,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 37.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "137030",
+        "speedKPH": "81.241",
+        "mediaId": 0,
+        "speedMPH": "50.481",
+        "shortText": "Williams to Mohammad Saifuddin, no run",
+        "sequence": 103703,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "171/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.56,
+          "fallOfWickets": 0,
+          "balls": 225,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 171,
+          "remainingBalls": 75,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 4.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 27
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 42
+        },
+        "postText": "angel: \"BD definitely need more than at least 220 today. Let's not discredit ZIM's batting altogether just because they haven't won too many games. BD is without their key bowler in Shakib, so they will need some runs on the board to defend.\"",
+        "batsman": {
+          "totalRuns": 11,
+          "runs": 171,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 28
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "sharp turn but the impact may have been just outside off. Thin inside edge too as he defended forward.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 37.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 3,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 37.4,
+          "ball": 4,
+          "number": 38,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 37.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "137040",
+        "speedKPH": "79.584",
+        "mediaId": 0,
+        "speedMPH": "49.451",
+        "shortText": "Williams to Mohammad Saifuddin, no run",
+        "sequence": 103704,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "171/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.53,
+          "fallOfWickets": 0,
+          "balls": 226,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 171,
+          "remainingBalls": 74,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 4.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 28
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 42
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 11,
+          "runs": 171,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 29
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "lunges forward and defends this gently back to the bowler",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 37.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 3,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 37.5,
+          "ball": 5,
+          "number": 38,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 37.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "137050",
+        "speedKPH": "85.054",
+        "mediaId": 0,
+        "speedMPH": "52.850",
+        "shortText": "Williams to Mohammad Saifuddin, no run",
+        "sequence": 103705,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "171/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.51,
+          "fallOfWickets": 0,
+          "balls": 227,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 171,
+          "remainingBalls": 73,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 4.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 29
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 42
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 11,
+          "runs": 171,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 30
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "makes room and eases this into the gap at point for a single.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 37.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 3,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 37.6,
+          "ball": 6,
+          "number": 38,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 37.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "137060",
+        "speedKPH": "86.113",
+        "mediaId": 0,
+        "speedMPH": "53.508",
+        "shortText": "Williams to Mohammad Saifuddin, 1 run",
+        "sequence": 103706,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "172/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.52,
+          "fallOfWickets": 0,
+          "balls": 228,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 172,
+          "remainingBalls": 72,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 30
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 42
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 12,
+          "runs": 172,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 31
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "tossed up on leg stump, smothered pretty nicely.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 38.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 38.1,
+          "ball": 1,
+          "number": 39,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 38.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "138010",
+        "speedKPH": "88.190",
+        "mediaId": 0,
+        "speedMPH": "54.799",
+        "shortText": "Mavuta to Mohammad Saifuddin, no run",
+        "sequence": 103801,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "172/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.5,
+          "fallOfWickets": 0,
+          "balls": 229,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 172,
+          "remainingBalls": 71,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 43
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 12,
+          "runs": 172,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 32
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "full toss that has been whipped straight back to the bowler.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 38.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 38.2,
+          "ball": 2,
+          "number": 39,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 38.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "138020",
+        "speedKPH": "88.195",
+        "mediaId": 0,
+        "speedMPH": "54.802",
+        "shortText": "Mavuta to Mohammad Saifuddin, no run",
+        "sequence": 103802,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "172/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.48,
+          "fallOfWickets": 0,
+          "balls": 230,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 172,
+          "remainingBalls": 70,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 43,
+          "maidens": 0,
+          "overs": 7.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 44
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 12,
+          "runs": 172,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 33
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "rocks back and hammers this short delivery into the gap at midwicket. That will definitely break the shackles.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 38.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 38.3,
+          "ball": 3,
+          "number": 39,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 38.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "138030",
+        "speedKPH": "83.538",
+        "mediaId": 0,
+        "speedMPH": "51.908",
+        "shortText": "Mavuta to Mohammad Saifuddin, FOUR runs",
+        "sequence": 103803,
+        "preText": "",
+        "scoreValue": 4,
+        "homeScore": "176/6",
+        "playType": {
+          "id": "3",
+          "description": "four"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.57,
+          "fallOfWickets": 0,
+          "balls": 231,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 4,
+          "runs": 176,
+          "remainingBalls": 69,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 47,
+          "maidens": 0,
+          "overs": 7.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 45
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 16,
+          "runs": 176,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 34
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "leading edge that rolls into the off side, closed the bat face a little too early.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 38.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 38.4,
+          "ball": 4,
+          "number": 39,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 38.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "138040",
+        "speedKPH": "83.448",
+        "mediaId": 0,
+        "speedMPH": "51.852",
+        "shortText": "Mavuta to Mohammad Saifuddin, no run",
+        "sequence": 103804,
+        "preText": "Saif: \"Please please don't comment, Khan. We are just recovering from that triple strike from Jarvis.\"",
+        "scoreValue": 0,
+        "homeScore": "176/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.55,
+          "fallOfWickets": 0,
+          "balls": 232,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 176,
+          "remainingBalls": 68,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 47,
+          "maidens": 0,
+          "overs": 7.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 46
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 16,
+          "runs": 176,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 35
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "jabs this away into the gap towards point for a quick single.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 111
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 38.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 38.5,
+          "ball": 5,
+          "number": 39,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 38.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "138050",
+        "speedKPH": "90.696",
+        "mediaId": 0,
+        "speedMPH": "56.356",
+        "shortText": "Mavuta to Mohammad Saifuddin, 1 run",
+        "sequence": 103805,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "177/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.55,
+          "fallOfWickets": 0,
+          "balls": 233,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 177,
+          "remainingBalls": 67,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 7.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 47
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 17,
+          "runs": 177,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 36
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      },
+      {
+        "text": "fires in a yorker, kept out somehow.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 17,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 36
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 38.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 38.6,
+          "ball": 6,
+          "number": 39,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 38.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "138060",
+        "speedKPH": "86.254",
+        "mediaId": 0,
+        "speedMPH": "53.596",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 103806,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "177/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.53,
+          "fallOfWickets": 0,
+          "balls": 234,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 177,
+          "remainingBalls": 66,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 8.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 48
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 17,
+          "maidens": 0,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 90,
+          "runs": 177,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 112
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "gentle push into the covers for a single, but he'll get an extra run because there's an overthrow at the bowler's end.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 112
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 39.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 39.1,
+          "ball": 1,
+          "number": 40,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 39.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "139010",
+        "speedKPH": "92.817",
+        "mediaId": 0,
+        "speedMPH": "57.674",
+        "shortText": "Williams to Mohammad Saifuddin, 2 runs",
+        "sequence": 103901,
+        "preText": "",
+        "scoreValue": 2,
+        "homeScore": "179/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.57,
+          "fallOfWickets": 0,
+          "balls": 235,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 2,
+          "runs": 179,
+          "remainingBalls": 65,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 19,
+          "maidens": 0,
+          "overs": 5.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 31
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 8.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 48
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 19,
+          "runs": 179,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 37
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "makes a bit of room and punches into the gap at cover.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 90,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 112
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 39.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 39.2,
+          "ball": 2,
+          "number": 40,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 39.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "139020",
+        "speedKPH": "85.707",
+        "mediaId": 0,
+        "speedMPH": "53.256",
+        "shortText": "Williams to Mohammad Saifuddin, 1 run",
+        "sequence": 103902,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "180/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.57,
+          "fallOfWickets": 0,
+          "balls": 236,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 180,
+          "remainingBalls": 64,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 20,
+          "maidens": 0,
+          "overs": 5.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 32
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 8.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 48
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 20,
+          "runs": 180,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 38
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "tossed up on middle and leg, worked with the spin towards deep midwicket",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 20,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 38
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 39.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 39.3,
+          "ball": 3,
+          "number": 40,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 39.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "139030",
+        "speedKPH": "78.946",
+        "mediaId": 0,
+        "speedMPH": "49.055",
+        "shortText": "Williams to Imrul Kayes, 1 run",
+        "sequence": 103903,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "181/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.58,
+          "fallOfWickets": 0,
+          "balls": 237,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 181,
+          "remainingBalls": 63,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 21,
+          "maidens": 0,
+          "overs": 5.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 33
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 8.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 48
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 91,
+          "runs": 181,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 113
+        },
+        "athletesInvolved": [
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "right on top of the bounce as he turns this into the leg side.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 91,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 113
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 39.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 39.4,
+          "ball": 4,
+          "number": 40,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 39.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "139040",
+        "speedKPH": "80.443",
+        "mediaId": 0,
+        "speedMPH": "49.985",
+        "shortText": "Williams to Mohammad Saifuddin, no run",
+        "sequence": 103904,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "181/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.56,
+          "fallOfWickets": 0,
+          "balls": 238,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 181,
+          "remainingBalls": 62,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 21,
+          "maidens": 0,
+          "overs": 5.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 34
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 8.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 48
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 20,
+          "runs": 181,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 39
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "turns this into the gap between deep midwicket and deep square, good work by the boundary riders though.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 91,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 7,
+          "sixes": 3,
+          "faced": 113
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 39.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 39.5,
+          "ball": 5,
+          "number": 40,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 39.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "139050",
+        "speedKPH": "",
+        "mediaId": 0,
+        "speedMPH": "",
+        "shortText": "Williams to Mohammad Saifuddin, 1 run",
+        "sequence": 103905,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "182/6",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.56,
+          "fallOfWickets": 0,
+          "balls": 239,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 182,
+          "remainingBalls": 61,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 22,
+          "maidens": 0,
+          "overs": 5.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 35
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 8.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 48
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 21,
+          "runs": 182,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 40
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "bisects deep square and deep midwicket perfectly. Dropped short, he was right back inside the crease to muscle this into the gap, couple of bounces to the ropes. The crowd roars.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 21,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 40
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 39.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 39.6,
+          "ball": 6,
+          "number": 40,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 39.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "139060",
+        "speedKPH": "87.223",
+        "mediaId": 0,
+        "speedMPH": "54.198",
+        "shortText": "Williams to Imrul Kayes, FOUR runs",
+        "sequence": 103906,
+        "preText": "",
+        "scoreValue": 4,
+        "homeScore": "186/6",
+        "playType": {
+          "id": "3",
+          "description": "four"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sean Williams",
+              "id": "55870",
+              "displayName": "SC Williams",
+              "shortName": "Williams",
+              "fullName": "Sean Williams"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.65,
+          "fallOfWickets": 0,
+          "balls": 240,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 4,
+          "runs": 186,
+          "remainingBalls": 60,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 26,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 36
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 48,
+          "maidens": 0,
+          "overs": 8.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 48
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 95,
+          "runs": 186,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 8,
+          "sixes": 3,
+          "faced": 114
+        },
+        "athletesInvolved": [
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          },
+          {
+            "name": "Sean Williams",
+            "id": "55870",
+            "shortName": "Williams",
+            "displayName": "SC Williams"
+          }
+        ]
+      },
+      {
+        "text": "fired into the stumps from round the wicket, blocked.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 95,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 8,
+          "sixes": 3,
+          "faced": 114
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 40.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 40.1,
+          "ball": 1,
+          "number": 41,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 40.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "140010",
+        "speedKPH": "82.947",
+        "mediaId": 0,
+        "speedMPH": "51.541",
+        "shortText": "Sikandar Raza to Mohammad Saifuddin, no run",
+        "sequence": 104001,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "186/6",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Saifuddin",
+              "id": "629070",
+              "displayName": "Mohammad Saifuddin",
+              "shortName": "Saifuddin",
+              "fullName": "Mohammad Saifuddin"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Sikandar Raza",
+              "id": "299572",
+              "displayName": "Sikandar Raza",
+              "shortName": "Sikandar",
+              "fullName": "Sikandar Raza"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 6,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.63,
+          "fallOfWickets": 0,
+          "balls": 241,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 186,
+          "remainingBalls": 59,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 33,
+          "maidens": 0,
+          "overs": 5.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "displayName": "Sikandar Raza",
+            "shortName": "Sikandar",
+            "fullName": "Sikandar Raza"
+          },
+          "wickets": 0,
+          "balls": 31
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 26,
+          "maidens": 0,
+          "overs": 6.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Sean Williams",
+            "id": "55870",
+            "displayName": "SC Williams",
+            "shortName": "Williams",
+            "fullName": "Sean Williams"
+          },
+          "wickets": 0,
+          "balls": 36
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 21,
+          "runs": 186,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "displayName": "Mohammad Saifuddin",
+            "shortName": "Saifuddin",
+            "fullName": "Mohammad Saifuddin"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 41
+        },
+        "athletesInvolved": [
+          {
+            "name": "Sikandar Raza",
+            "id": "299572",
+            "shortName": "Sikandar",
+            "displayName": "Sikandar Raza"
+          },
+          {
+            "name": "Mohammad Saifuddin",
+            "id": "629070",
+            "shortName": "Saifuddin",
+            "displayName": "Mohammad Saifuddin"
+          }
+        ]
+      }
+    ],
+    "pageIndex": 10
+  }
+}

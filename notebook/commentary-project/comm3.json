@@ -1,0 +1,4685 @@
+{
+  "commentary": {
+    "count": 313,
+    "pageCount": 13,
+    "pageSize": 25,
+    "items": [
+      {
+        "text": "short of length, jumps at the batsman who pushes it back towards the bowler",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 4,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 6
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 7.08,
+          "complete": true,
+          "balls": 6,
+          "runs": 5,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 7.6,
+          "ball": 8,
+          "number": 8,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 7.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "17080",
+        "speedKPH": "126.261",
+        "mediaId": 0,
+        "speedMPH": "78.455",
+        "shortText": "Chatara to Imrul Kayes, no run",
+        "sequence": 100708,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "26/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Tendai Chatara",
+              "id": "425639",
+              "displayName": "TL Chatara",
+              "shortName": "Chatara",
+              "fullName": "Tendai Chatara"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.25,
+          "fallOfWickets": 0,
+          "balls": 48,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 26,
+          "remainingBalls": 252,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 13,
+          "maidens": 1,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 24
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 10,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 14,
+          "runs": 26,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 2,
+          "sixes": 0,
+          "faced": 24
+        },
+        "athletesInvolved": [
+          {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "shortName": "Chatara",
+            "displayName": "TL Chatara"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "fuller on stumps, driven towards mid-on but straight to the man",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 14,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 2,
+          "sixes": 0,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 8.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 8.1,
+          "ball": 1,
+          "number": 9,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 8.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "18010",
+        "speedKPH": "127.719",
+        "mediaId": 0,
+        "speedMPH": "79.361",
+        "shortText": "Tiripano to Mushfiqur Rahim, no run",
+        "sequence": 100801,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "26/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.18,
+          "fallOfWickets": 0,
+          "balls": 49,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 26,
+          "remainingBalls": 251,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 10,
+          "maidens": 0,
+          "overs": 2.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 13
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 1,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 4,
+          "runs": 26,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 7
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "fuller and wider and Mushfiqur slashes at it, gets a thick outside edge which flies over Masakadza at first slip",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 14,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 2,
+          "sixes": 0,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 8.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 8.2,
+          "ball": 2,
+          "number": 9,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 8.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "18020",
+        "speedKPH": "131.524",
+        "mediaId": 0,
+        "speedMPH": "81.725",
+        "shortText": "Tiripano to Mushfiqur Rahim, FOUR runs",
+        "sequence": 100802,
+        "preText": "",
+        "scoreValue": 4,
+        "homeScore": "30/2",
+        "playType": {
+          "id": "3",
+          "description": "four"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.6,
+          "fallOfWickets": 0,
+          "balls": 50,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 4,
+          "runs": 30,
+          "remainingBalls": 250,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 2.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 14
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 1,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 8,
+          "runs": 30,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 8
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "length outside off, opens the face of the bat to run it towards third man",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 14,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 2,
+          "sixes": 0,
+          "faced": 24
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 8.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 8.3,
+          "ball": 3,
+          "number": 9,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 8.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "18030",
+        "speedKPH": "123.981",
+        "mediaId": 0,
+        "speedMPH": "77.038",
+        "shortText": "Tiripano to Mushfiqur Rahim, 1 run",
+        "sequence": 100803,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "31/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.64,
+          "fallOfWickets": 0,
+          "balls": 51,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 31,
+          "remainingBalls": 249,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 15,
+          "maidens": 0,
+          "overs": 2.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 15
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 1,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 9,
+          "runs": 31,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 9
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "length ball, comes forward and defends it towards cover",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 9,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 9
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 8.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 8.4,
+          "ball": 4,
+          "number": 9,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 8.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "18040",
+        "speedKPH": "121.449",
+        "mediaId": 0,
+        "speedMPH": "75.465",
+        "shortText": "Tiripano to Imrul Kayes, no run",
+        "sequence": 100804,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "31/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.57,
+          "fallOfWickets": 0,
+          "balls": 52,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 31,
+          "remainingBalls": 248,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 15,
+          "maidens": 0,
+          "overs": 2.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 16
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 1,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 14,
+          "runs": 31,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 2,
+          "sixes": 0,
+          "faced": 25
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "bouncer this time, but Imrul ducks under it quite comfortably",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 9,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 9
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 8.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 8.5,
+          "ball": 5,
+          "number": 9,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 8.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "18050",
+        "speedKPH": "125.345",
+        "mediaId": 0,
+        "speedMPH": "77.886",
+        "shortText": "Tiripano to Imrul Kayes, no run",
+        "sequence": 100805,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "31/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.5,
+          "fallOfWickets": 0,
+          "balls": 53,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 31,
+          "remainingBalls": 247,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 15,
+          "maidens": 0,
+          "overs": 2.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 17
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 1,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 14,
+          "runs": 31,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 2,
+          "sixes": 0,
+          "faced": 26
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "slower one, played with soft hands towards mid-on for a quick single",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 9,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 9
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 8.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 8.6,
+          "ball": 6,
+          "number": 9,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 8.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "18060",
+        "speedKPH": "112.640",
+        "mediaId": 0,
+        "speedMPH": "69.991",
+        "shortText": "Tiripano to Imrul Kayes, 1 run",
+        "sequence": 100806,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "32/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.55,
+          "fallOfWickets": 0,
+          "balls": 54,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 32,
+          "remainingBalls": 246,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 1,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 15,
+          "runs": 32,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 2,
+          "sixes": 0,
+          "faced": 27
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "short of length outside off, Imrul gets on his toes and punches it through covers for a crunching boundary",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 9,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 9
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 9.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 9.1,
+          "ball": 1,
+          "number": 10,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 9.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "19010",
+        "speedKPH": "125.155",
+        "mediaId": 0,
+        "speedMPH": "77.768",
+        "shortText": "Chatara to Imrul Kayes, FOUR runs",
+        "sequence": 100901,
+        "preText": "Saifullah: \"BAN V ZIM in mobile and IND V WI in laptop. No other works in progress\"",
+        "scoreValue": 4,
+        "homeScore": "36/2",
+        "playType": {
+          "id": "3",
+          "description": "four"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Tendai Chatara",
+              "id": "425639",
+              "displayName": "TL Chatara",
+              "shortName": "Chatara",
+              "fullName": "Tendai Chatara"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.92,
+          "fallOfWickets": 0,
+          "balls": 55,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 4,
+          "runs": 36,
+          "remainingBalls": 245,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 17,
+          "maidens": 1,
+          "overs": 4.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 25
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 19,
+          "runs": 36,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 28
+        },
+        "athletesInvolved": [
+          {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "shortName": "Chatara",
+            "displayName": "TL Chatara"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length ball, on the pads, worked away towards backward square leg for a single",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 9,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 9
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 9.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 9.2,
+          "ball": 2,
+          "number": 10,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 9.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "19020",
+        "speedKPH": "124.097",
+        "mediaId": 0,
+        "speedMPH": "77.110",
+        "shortText": "Chatara to Imrul Kayes, 1 run",
+        "sequence": 100902,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "37/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Tendai Chatara",
+              "id": "425639",
+              "displayName": "TL Chatara",
+              "shortName": "Chatara",
+              "fullName": "Tendai Chatara"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.96,
+          "fallOfWickets": 0,
+          "balls": 56,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 37,
+          "remainingBalls": 244,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 18,
+          "maidens": 1,
+          "overs": 4.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 26
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 20,
+          "runs": 37,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 29
+        },
+        "athletesInvolved": [
+          {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "shortName": "Chatara",
+            "displayName": "TL Chatara"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length ball, just outside off, Mushfiqur gets back and drops it on the off side",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 20,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 29
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 9.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 9.3,
+          "ball": 3,
+          "number": 10,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 9.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "19030",
+        "speedKPH": "126.399",
+        "mediaId": 0,
+        "speedMPH": "78.541",
+        "shortText": "Chatara to Mushfiqur Rahim, no run",
+        "sequence": 100903,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "37/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Tendai Chatara",
+              "id": "425639",
+              "displayName": "TL Chatara",
+              "shortName": "Chatara",
+              "fullName": "Tendai Chatara"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.89,
+          "fallOfWickets": 0,
+          "balls": 57,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 37,
+          "remainingBalls": 243,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 18,
+          "maidens": 1,
+          "overs": 4.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 27
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 9,
+          "runs": 37,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 10
+        },
+        "athletesInvolved": [
+          {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "shortName": "Chatara",
+            "displayName": "TL Chatara"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "fuller this time, Mushfiqur comes forward and pushes it towards mid-off and sprints to the other end for a quick run",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 20,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 29
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 9.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 9.4,
+          "ball": 4,
+          "number": 10,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 9.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "19040",
+        "speedKPH": "127.624",
+        "mediaId": 0,
+        "speedMPH": "79.302",
+        "shortText": "Chatara to Mushfiqur Rahim, 1 run",
+        "sequence": 100904,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "38/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Tendai Chatara",
+              "id": "425639",
+              "displayName": "TL Chatara",
+              "shortName": "Chatara",
+              "fullName": "Tendai Chatara"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.93,
+          "fallOfWickets": 0,
+          "balls": 58,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 38,
+          "remainingBalls": 242,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 19,
+          "maidens": 1,
+          "overs": 4.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 28
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 10,
+          "runs": 38,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 11
+        },
+        "athletesInvolved": [
+          {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "shortName": "Chatara",
+            "displayName": "TL Chatara"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "short of length, Imrul was early into the shot and ends up chipping it towards square leg",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 11
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 9.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 9.5,
+          "ball": 5,
+          "number": 10,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 9.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "19050",
+        "speedKPH": "122.643",
+        "mediaId": 0,
+        "speedMPH": "76.207",
+        "shortText": "Chatara to Imrul Kayes, 1 run",
+        "sequence": 100905,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "39/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Tendai Chatara",
+              "id": "425639",
+              "displayName": "TL Chatara",
+              "shortName": "Chatara",
+              "fullName": "Tendai Chatara"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.96,
+          "fallOfWickets": 0,
+          "balls": 59,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 39,
+          "remainingBalls": 241,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 4.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 29
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 21,
+          "runs": 39,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 30
+        },
+        "athletesInvolved": [
+          {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "shortName": "Chatara",
+            "displayName": "TL Chatara"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length ball, comes forward and defends",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 21,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 30
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 9.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 9.6,
+          "ball": 6,
+          "number": 10,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 9.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "19060",
+        "speedKPH": "126.900",
+        "mediaId": 0,
+        "speedMPH": "78.852",
+        "shortText": "Chatara to Mushfiqur Rahim, no run",
+        "sequence": 100906,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "39/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Tendai Chatara",
+              "id": "425639",
+              "displayName": "TL Chatara",
+              "shortName": "Chatara",
+              "fullName": "Tendai Chatara"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.9,
+          "fallOfWickets": 0,
+          "balls": 60,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 39,
+          "remainingBalls": 240,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "Shashank will keep you company for next ten overs.",
+        "batsman": {
+          "totalRuns": 10,
+          "runs": 39,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "athletesInvolved": [
+          {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "shortName": "Chatara",
+            "displayName": "TL Chatara"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "angles this full across the stumps, defended.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 10.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 10.1,
+          "ball": 1,
+          "number": 11,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 10.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "110010",
+        "speedKPH": "127.574",
+        "mediaId": 0,
+        "speedMPH": "79.271",
+        "shortText": "Tiripano to Imrul Kayes, no run",
+        "sequence": 101001,
+        "preText": "Thanjs, Hemant. Please ignore the minor glitch we currently have on screen with a pre-ball message regarding Fazle Mahmud.",
+        "scoreValue": 0,
+        "homeScore": "39/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.83,
+          "fallOfWickets": 0,
+          "balls": 61,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 39,
+          "remainingBalls": 239,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 16,
+          "maidens": 0,
+          "overs": 3.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 19
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 21,
+          "runs": 39,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 31
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "drive on the up, <b> just eludes backward point. </b> Saw the width and threw his bat at the delivery.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 10.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 10.2,
+          "ball": 2,
+          "number": 11,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 10.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "110020",
+        "speedKPH": "123.881",
+        "mediaId": 0,
+        "speedMPH": "76.976",
+        "shortText": "Tiripano to Imrul Kayes, 2 runs",
+        "sequence": 101002,
+        "preText": "",
+        "scoreValue": 2,
+        "homeScore": "41/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.96,
+          "fallOfWickets": 0,
+          "balls": 62,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 2,
+          "runs": 41,
+          "remainingBalls": 238,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 18,
+          "maidens": 0,
+          "overs": 3.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 20
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 23,
+          "runs": 41,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 32
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length ball angling away, he stands tall and punches to cover point.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 10.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 10.3,
+          "ball": 3,
+          "number": 11,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 10.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "110030",
+        "speedKPH": "129.560",
+        "mediaId": 0,
+        "speedMPH": "80.505",
+        "shortText": "Tiripano to Imrul Kayes, no run",
+        "sequence": 101003,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "41/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.9,
+          "fallOfWickets": 0,
+          "balls": 63,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 41,
+          "remainingBalls": 237,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 18,
+          "maidens": 0,
+          "overs": 3.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 21
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 23,
+          "runs": 41,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 33
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "short but this is way over the batsman's head, left alone without a hassle.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 1,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 10.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 10.3,
+          "ball": 4,
+          "number": 11,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 10.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "110040",
+        "speedKPH": "129.021",
+        "mediaId": 0,
+        "speedMPH": "80.170",
+        "shortText": "Tiripano to Imrul Kayes, 1 wide",
+        "sequence": 101004,
+        "preText": "Tafadzwa Mareya: \"Jarvis' s economy after two overs was very impressive. I hope zimbabwe gets three more wickets before 100 for them to be in control of the game. Early wickets determine a lot in cricket.\"",
+        "scoreValue": 1,
+        "homeScore": "42/2",
+        "playType": {
+          "id": "6",
+          "description": "wide"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.0,
+          "fallOfWickets": 0,
+          "balls": 63,
+          "byes": 0,
+          "wides": 1,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 42,
+          "remainingBalls": 237,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 19,
+          "maidens": 0,
+          "overs": 3.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 21
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 23,
+          "runs": 42,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 33
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "slower length delivery angled across, defended from the crease.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 10.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 10.4,
+          "ball": 5,
+          "number": 11,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 10.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "110050",
+        "speedKPH": "124.032",
+        "mediaId": 0,
+        "speedMPH": "77.070",
+        "shortText": "Tiripano to Imrul Kayes, no run",
+        "sequence": 101005,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "42/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.93,
+          "fallOfWickets": 0,
+          "balls": 64,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 42,
+          "remainingBalls": 236,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 19,
+          "maidens": 0,
+          "overs": 3.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 22
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 23,
+          "runs": 42,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 34
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "looks to belt this over mid-on, but gets a thick inside edge to the fielder instead.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 10.06,
+          "complete": false,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 10.5,
+          "ball": 6,
+          "number": 11,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 10.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "110060",
+        "speedKPH": "124.779",
+        "mediaId": 0,
+        "speedMPH": "77.534",
+        "shortText": "Tiripano to Imrul Kayes, no run",
+        "sequence": 101006,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "42/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 3.87,
+          "fallOfWickets": 0,
+          "balls": 65,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 42,
+          "remainingBalls": 235,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 19,
+          "maidens": 0,
+          "overs": 3.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 23
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 23,
+          "runs": 42,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 0,
+          "faced": 35
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "beautiful shot. Sees this full, gets underneath the length and goes straight. Launched into the sightscreen. As a batsman, shots like those give you immense satisfaction. The smile told you a story. Friendly half-volley that time, deserved to be put away and this was quite magnificently.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 10,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 12
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 10.07,
+          "complete": true,
+          "balls": 6,
+          "runs": 9,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 10.6,
+          "ball": 7,
+          "number": 11,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 10.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "110070",
+        "speedKPH": "114.347",
+        "mediaId": 0,
+        "speedMPH": "71.052",
+        "shortText": "Tiripano to Imrul Kayes, SIX runs",
+        "sequence": 101007,
+        "preText": "",
+        "scoreValue": 6,
+        "homeScore": "48/2",
+        "playType": {
+          "id": "4",
+          "description": "six"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Donald Tiripano",
+              "id": "392945",
+              "displayName": "DT Tiripano",
+              "shortName": "Tiripano",
+              "fullName": "Donald Tiripano"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.36,
+          "fallOfWickets": 0,
+          "balls": 66,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 6,
+          "runs": 48,
+          "remainingBalls": 234,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 20,
+          "maidens": 1,
+          "overs": 5.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Tendai Chatara",
+            "id": "425639",
+            "displayName": "TL Chatara",
+            "shortName": "Chatara",
+            "fullName": "Tendai Chatara"
+          },
+          "wickets": 2,
+          "balls": 30
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 29,
+          "runs": 48,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 36
+        },
+        "athletesInvolved": [
+          {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "shortName": "Tiripano",
+            "displayName": "DT Tiripano"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "length outside off, steered to square third man",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 29,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 36
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 11.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 11.1,
+          "ball": 1,
+          "number": 12,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 11.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "111010",
+        "speedKPH": "126.322",
+        "mediaId": 0,
+        "speedMPH": "78.493",
+        "shortText": "Jarvis to Mushfiqur Rahim, 1 run",
+        "sequence": 101101,
+        "preText": "Kyle Jarvis is back on the field and comes in to bowl.",
+        "scoreValue": 1,
+        "homeScore": "49/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.38,
+          "fallOfWickets": 0,
+          "balls": 67,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 49,
+          "remainingBalls": 233,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 3,
+          "maidens": 0,
+          "overs": 2.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 13
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 11,
+          "runs": 49,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 13
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "floats this full around off stump, driven authoritatively but straight to mid-off.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 11,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 13
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 11.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 11.2,
+          "ball": 2,
+          "number": 12,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 11.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "111020",
+        "speedKPH": "125.065",
+        "mediaId": 0,
+        "speedMPH": "77.712",
+        "shortText": "Jarvis to Imrul Kayes, no run",
+        "sequence": 101102,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "49/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.32,
+          "fallOfWickets": 0,
+          "balls": 68,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 49,
+          "remainingBalls": 232,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 3,
+          "maidens": 0,
+          "overs": 2.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 14
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 29,
+          "runs": 49,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 37
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "off a thick inside edge to square leg. Looked to punch this on the up.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 11,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 13
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 11.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 11.3,
+          "ball": 3,
+          "number": 12,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 11.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "111030",
+        "speedKPH": "121.391",
+        "mediaId": 0,
+        "speedMPH": "75.429",
+        "shortText": "Jarvis to Imrul Kayes, 1 run",
+        "sequence": 101103,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "50/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.34,
+          "fallOfWickets": 0,
+          "balls": 69,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 50,
+          "remainingBalls": 231,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 4,
+          "maidens": 0,
+          "overs": 2.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 15
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 30,
+          "runs": 50,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 38
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "attacks the stumps with a length ball that veers in late, Mushfiqur tucks this down to fine leg.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 30,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 38
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 11.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 11.4,
+          "ball": 4,
+          "number": 12,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 11.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "111040",
+        "speedKPH": "131.398",
+        "mediaId": 0,
+        "speedMPH": "81.647",
+        "shortText": "Jarvis to Mushfiqur Rahim, 1 run",
+        "sequence": 101104,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "51/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.37,
+          "fallOfWickets": 0,
+          "balls": 70,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 51,
+          "remainingBalls": 230,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 5,
+          "maidens": 0,
+          "overs": 2.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 16
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 12,
+          "runs": 51,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 14
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "whipped away to deep midwicket for an easy single.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 12,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 14
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 11.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 11.5,
+          "ball": 5,
+          "number": 12,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 11.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "111050",
+        "speedKPH": "126.037",
+        "mediaId": 0,
+        "speedMPH": "78.316",
+        "shortText": "Jarvis to Imrul Kayes, 1 run",
+        "sequence": 101105,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "52/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.39,
+          "fallOfWickets": 0,
+          "balls": 71,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 52,
+          "remainingBalls": 229,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 2.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 17
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 31,
+          "runs": 52,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 39
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      }
+    ],
+    "pageIndex": 3
+  }
+}

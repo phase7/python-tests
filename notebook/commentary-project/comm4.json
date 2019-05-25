@@ -1,0 +1,4692 @@
+{
+  "commentary": {
+    "count": 313,
+    "pageCount": 13,
+    "pageSize": 25,
+    "items": [
+      {
+        "text": "hits him high on the bat as he defends back towards the bowler.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 31,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 39
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 11.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 4,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 11.6,
+          "ball": 6,
+          "number": 12,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 11.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "111060",
+        "speedKPH": "129.097",
+        "mediaId": 0,
+        "speedMPH": "80.217",
+        "shortText": "Jarvis to Mushfiqur Rahim, no run",
+        "sequence": 101106,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "52/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.33,
+          "fallOfWickets": 0,
+          "balls": 72,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 52,
+          "remainingBalls": 228,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 25,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Donald Tiripano",
+            "id": "392945",
+            "displayName": "DT Tiripano",
+            "shortName": "Tiripano",
+            "fullName": "Donald Tiripano"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 12,
+          "runs": 52,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 15
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "starts well. Lands this on a length, just around middle, defended with soft hands.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 12,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 15
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 12.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 12.1,
+          "ball": 1,
+          "number": 13,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 12.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "112010",
+        "speedKPH": "90.162",
+        "mediaId": 0,
+        "speedMPH": "56.024",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 101201,
+        "preText": "Change in bowling, Brandon Mavuta with his legspin. Fourth ODI for him, has picked four wickets so far.",
+        "scoreValue": 0,
+        "homeScore": "52/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.27,
+          "fallOfWickets": 0,
+          "balls": 73,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 52,
+          "remainingBalls": 227,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 0,
+          "maidens": 0,
+          "overs": 0.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 1
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 31,
+          "runs": 52,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 40
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "drops short, he rocks back and pulls all along the ground to deep square leg.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 12,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 15
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 12.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 12.2,
+          "ball": 2,
+          "number": 13,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 12.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "112020",
+        "speedKPH": "92.861",
+        "mediaId": 0,
+        "speedMPH": "57.701",
+        "shortText": "Mavuta to Imrul Kayes, 1 run",
+        "sequence": 101202,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "53/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.29,
+          "fallOfWickets": 0,
+          "balls": 74,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 53,
+          "remainingBalls": 226,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 1,
+          "maidens": 0,
+          "overs": 0.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 2
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 32,
+          "runs": 53,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 41
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "tossed up, invites the drive by pitching it on off stump. Driven with the spin to mid-off.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 32,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 41
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 12.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 12.3,
+          "ball": 3,
+          "number": 13,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 12.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "112030",
+        "speedKPH": "87.653",
+        "mediaId": 0,
+        "speedMPH": "54.465",
+        "shortText": "Mavuta to Mushfiqur Rahim, 1 run",
+        "sequence": 101203,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "54/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.32,
+          "fallOfWickets": 0,
+          "balls": 75,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 54,
+          "remainingBalls": 225,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 2,
+          "maidens": 0,
+          "overs": 0.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 3
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 13,
+          "runs": 54,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 16
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "nurdled with the spin to square leg.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 13,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 16
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 12.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 12.4,
+          "ball": 4,
+          "number": 13,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 12.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "112040",
+        "speedKPH": "85.154",
+        "mediaId": 0,
+        "speedMPH": "52.912",
+        "shortText": "Mavuta to Imrul Kayes, 1 run",
+        "sequence": 101204,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "55/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.34,
+          "fallOfWickets": 0,
+          "balls": 76,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 55,
+          "remainingBalls": 224,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 3,
+          "maidens": 0,
+          "overs": 0.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 4
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 33,
+          "runs": 55,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 42
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "turns this gently into the square leg region for an easy single.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 33,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 42
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 12.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 12.5,
+          "ball": 5,
+          "number": 13,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 12.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "112050",
+        "speedKPH": "87.178",
+        "mediaId": 0,
+        "speedMPH": "54.170",
+        "shortText": "Mavuta to Mushfiqur Rahim, 1 run",
+        "sequence": 101205,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "56/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.36,
+          "fallOfWickets": 0,
+          "balls": 77,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 56,
+          "remainingBalls": 223,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 4,
+          "maidens": 0,
+          "overs": 0.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 5
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 14,
+          "runs": 56,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 17
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "slips this down leg, the keeper can't gather cleanly and they'll scamper a bye in addition to the wide",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 14,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 17
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 2,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 12.06,
+          "complete": false,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 12.5,
+          "ball": 6,
+          "number": 13,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 12.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "112060",
+        "speedKPH": "85.504",
+        "mediaId": 0,
+        "speedMPH": "53.130",
+        "shortText": "Mavuta to Imrul Kayes, 2 wides",
+        "sequence": 101206,
+        "preText": "",
+        "scoreValue": 2,
+        "homeScore": "58/2",
+        "playType": {
+          "id": "6",
+          "description": "wide"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.51,
+          "fallOfWickets": 0,
+          "balls": 77,
+          "byes": 0,
+          "wides": 2,
+          "id": "209641",
+          "totalRuns": 2,
+          "runs": 58,
+          "remainingBalls": 223,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 0.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 5
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 33,
+          "runs": 58,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 42
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "leading edge, but doesn't carry to the bowler. Mushfiq was looking to work this through midwicket",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 33,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 42
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 12.07,
+          "complete": true,
+          "balls": 6,
+          "runs": 6,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 12.6,
+          "ball": 7,
+          "number": 13,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 12.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "112070",
+        "speedKPH": "86.964",
+        "mediaId": 0,
+        "speedMPH": "54.037",
+        "shortText": "Mavuta to Mushfiqur Rahim, no run",
+        "sequence": 101207,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "58/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.46,
+          "fallOfWickets": 0,
+          "balls": 78,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 58,
+          "remainingBalls": 222,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 6
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 18
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 14,
+          "runs": 58,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 18
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "banged in short, excellent bouncer on middle, Imrul shapes to pull but bails out at the last moment. Excellent decision too.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 14,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 18
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 13.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 13.1,
+          "ball": 1,
+          "number": 14,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 13.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "113010",
+        "speedKPH": "125.558",
+        "mediaId": 0,
+        "speedMPH": "78.018",
+        "shortText": "Jarvis to Imrul Kayes, no run",
+        "sequence": 101301,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "58/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.4,
+          "fallOfWickets": 0,
+          "balls": 79,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 58,
+          "remainingBalls": 221,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 19
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 6
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 33,
+          "runs": 58,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 43
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "slower length ball outside off, steers this straight to backward point.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 14,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 18
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 13.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 13.2,
+          "ball": 2,
+          "number": 14,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 13.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "113020",
+        "speedKPH": "113.655",
+        "mediaId": 0,
+        "speedMPH": "70.622",
+        "shortText": "Jarvis to Imrul Kayes, no run",
+        "sequence": 101302,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "58/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.35,
+          "fallOfWickets": 0,
+          "balls": 80,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 58,
+          "remainingBalls": 220,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 3.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 20
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 6
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 33,
+          "runs": 58,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 44
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "lifter from a length on middle and off, Imrul takes a step across to defend but gets a thick inside edge towards square leg.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 14,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 18
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 13.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 13.3,
+          "ball": 3,
+          "number": 14,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 13.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "113030",
+        "speedKPH": "125.247",
+        "mediaId": 0,
+        "speedMPH": "77.825",
+        "shortText": "Jarvis to Imrul Kayes, 1 run",
+        "sequence": 101303,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "59/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.37,
+          "fallOfWickets": 0,
+          "balls": 81,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 59,
+          "remainingBalls": 219,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 3.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 21
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 6
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 34,
+          "runs": 59,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 45
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "well-controlled work off his wrists to square leg. Kept it all along the ground.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 34,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 3,
+          "sixes": 1,
+          "faced": 45
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 13.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 13.4,
+          "ball": 4,
+          "number": 14,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 13.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "113040",
+        "speedKPH": "130.703",
+        "mediaId": 0,
+        "speedMPH": "81.215",
+        "shortText": "Jarvis to Mushfiqur Rahim, 1 run",
+        "sequence": 101304,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "60/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.39,
+          "fallOfWickets": 0,
+          "balls": 82,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 60,
+          "remainingBalls": 218,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 8,
+          "maidens": 0,
+          "overs": 3.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 22
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 6
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 15,
+          "runs": 60,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "slower, fuller and belted away! Once again, picked this off his hand immediately and decided to straight downtown. Superb timing, aesthetically pleasing and result extremely satisfying. Superb from Imrul",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 15,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 13.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 13.5,
+          "ball": 5,
+          "number": 14,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 13.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "113050",
+        "speedKPH": "112.654",
+        "mediaId": 0,
+        "speedMPH": "70.000",
+        "shortText": "Jarvis to Imrul Kayes, FOUR runs",
+        "sequence": 101305,
+        "preText": "",
+        "scoreValue": 4,
+        "homeScore": "64/2",
+        "playType": {
+          "id": "3",
+          "description": "four"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.62,
+          "fallOfWickets": 0,
+          "balls": 83,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 4,
+          "runs": 64,
+          "remainingBalls": 217,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 12,
+          "maidens": 0,
+          "overs": 3.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 23
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 6
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 38,
+          "runs": 64,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 46
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "<b> thick outside edge </B> to third man as he tries to work this to the leg side. Closed the bat face a little too early in trying to work this towards midwicket",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 15,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 13.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 7,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 13.6,
+          "ball": 6,
+          "number": 14,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 13.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "113060",
+        "speedKPH": "129.251",
+        "mediaId": 0,
+        "speedMPH": "80.313",
+        "shortText": "Jarvis to Imrul Kayes, 1 run",
+        "sequence": 101306,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "65/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.64,
+          "fallOfWickets": 0,
+          "balls": 84,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 65,
+          "remainingBalls": 216,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 13,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 6
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 39,
+          "runs": 65,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 47
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "skids one through on a length but outside leg, may have brushed the thigh pad as he tried to tickle fine.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 15,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 1,
+          "unique": 14.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 14.1,
+          "ball": 1,
+          "number": 15,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 14.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "114010",
+        "speedKPH": "82.814",
+        "mediaId": 0,
+        "speedMPH": "51.458",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 101401,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "65/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.58,
+          "fallOfWickets": 0,
+          "balls": 85,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 65,
+          "remainingBalls": 215,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 7
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 39,
+          "runs": 65,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 48
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "gets outside the line of the stumps and smothers this tossed up delivery.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 15,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 1,
+          "unique": 14.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 14.2,
+          "ball": 2,
+          "number": 15,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 14.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "114020",
+        "speedKPH": "86.213",
+        "mediaId": 0,
+        "speedMPH": "53.570",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 101402,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "65/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.53,
+          "fallOfWickets": 0,
+          "balls": 86,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 65,
+          "remainingBalls": 214,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 8
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 39,
+          "runs": 65,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 49
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "driven back hard, but well stopped by the bowler in his followthrough",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 15,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 1,
+          "unique": 14.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 14.3,
+          "ball": 3,
+          "number": 15,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 14.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "114030",
+        "speedKPH": "83.623",
+        "mediaId": 0,
+        "speedMPH": "51.961",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 101403,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "65/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.48,
+          "fallOfWickets": 0,
+          "balls": 87,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 65,
+          "remainingBalls": 213,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 9
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 39,
+          "runs": 65,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 50
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "beaten by the fizz, attempted googly but not much turn. He rocked back to cut but couldn't connect",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 15,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 1,
+          "unique": 14.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 14.4,
+          "ball": 4,
+          "number": 15,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 14.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "114040",
+        "speedKPH": "90.880",
+        "mediaId": 0,
+        "speedMPH": "56.470",
+        "shortText": "Mavuta to Imrul Kayes, no run",
+        "sequence": 101404,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "65/2",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.43,
+          "fallOfWickets": 0,
+          "balls": 88,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 65,
+          "remainingBalls": 212,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 6,
+          "maidens": 0,
+          "overs": 1.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 10
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 39,
+          "runs": 65,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 51
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "too much width outside off, length way too short as well. Slapped away to deep point.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 15,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 19
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 1,
+          "unique": 14.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 14.5,
+          "ball": 5,
+          "number": 15,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 14.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "114050",
+        "speedKPH": "90.289",
+        "mediaId": 0,
+        "speedMPH": "56.103",
+        "shortText": "Mavuta to Imrul Kayes, 1 run",
+        "sequence": 101405,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "66/2",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 2,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.44,
+          "fallOfWickets": 0,
+          "balls": 89,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 66,
+          "remainingBalls": 211,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 1.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 0,
+          "balls": 11
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 40,
+          "runs": 66,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 52
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "this is a short ball drifting in towards leg stump, Mushfiqur looks to pull, plays too early and in doing so has got some glove on this. Excellent grab down the leg side by the wicketkeeper, who may have been blinded just a touch. But his balance was superb as he made a swift move to complete the catch. <b> Dharmasena's decision overturned </b> and Bangladesh are wobbling.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 40,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 52
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 1,
+          "unique": 14.06,
+          "complete": true,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 14.6,
+          "ball": 6,
+          "number": 15,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 14.6
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "114060",
+        "speedKPH": "77.063",
+        "mediaId": 0,
+        "speedMPH": "47.885",
+        "shortText": "Mavuta to Mushfiqur Rahim, OUT",
+        "sequence": 101406,
+        "preText": "big appeal for caught behind but umpire Dharmasena is confident in saying not out. <strong>Zimbabwe have reviewed.</strong>",
+        "scoreValue": 0,
+        "homeScore": "66/3",
+        "playType": {
+          "id": "9",
+          "description": "out"
+        },
+        "dismissal": {
+          "bowled": true,
+          "minutes": 0,
+          "dismissal": true,
+          "batsman": {
+            "athlete": {
+              "name": "Mushfiqur Rahim",
+              "id": "56029",
+              "displayName": "Mushfiqur Rahim",
+              "shortName": "Mushfiqur",
+              "fullName": "Mushfiqur Rahim"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Brandon Mavuta",
+              "id": "806239",
+              "displayName": "B Mavuta",
+              "shortName": "Mavuta",
+              "fullName": "Brandon Mavuta"
+            }
+          },
+          "type": "caught",
+          "text": "Mushfiqur Rahim c &dagger;Taylor b Mavuta 15 (20b 1x4 0x6) SR: 75.00"
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.4,
+          "fallOfWickets": 3,
+          "balls": 90,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 66,
+          "remainingBalls": 210,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 12
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 13,
+          "maidens": 0,
+          "overs": 4.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 24
+        },
+        "postText": "It's time for drinks.",
+        "batsman": {
+          "totalRuns": 15,
+          "runs": 66,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "displayName": "Mushfiqur Rahim",
+            "shortName": "Mushfiqur",
+            "fullName": "Mushfiqur Rahim"
+          },
+          "fours": 1,
+          "sixes": 0,
+          "faced": 20
+        },
+        "athletesInvolved": [
+          {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "shortName": "Mavuta",
+            "displayName": "B Mavuta"
+          },
+          {
+            "name": "Brendan Taylor",
+            "id": "55814",
+            "shortName": "Taylor",
+            "displayName": "BRM Taylor"
+          },
+          {
+            "name": "Mushfiqur Rahim",
+            "id": "56029",
+            "shortName": "Mushfiqur",
+            "displayName": "Mushfiqur Rahim"
+          }
+        ]
+      },
+      {
+        "text": "stands tall and punches to deep point",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 0,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 0
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 15.01,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 15.1,
+          "ball": 1,
+          "number": 16,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 15.1
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "115010",
+        "speedKPH": "130.724",
+        "mediaId": 0,
+        "speedMPH": "81.228",
+        "shortText": "Jarvis to Imrul Kayes, 1 run",
+        "sequence": 101501,
+        "preText": "",
+        "scoreValue": 1,
+        "homeScore": "67/3",
+        "playType": {
+          "id": "1",
+          "description": "run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Imrul Kayes",
+              "id": "280734",
+              "displayName": "Imrul Kayes",
+              "shortName": "Imrul",
+              "fullName": "Imrul Kayes"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.41,
+          "fallOfWickets": 0,
+          "balls": 91,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 1,
+          "runs": 67,
+          "remainingBalls": 209,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.1,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 25
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 41,
+          "runs": 67,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 53
+        },
+        "athletesInvolved": [
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          },
+          {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "shortName": "Imrul",
+            "displayName": "Imrul Kayes"
+          }
+        ]
+      },
+      {
+        "text": "skiddy short of length delivery on the stumps, defended back.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 41,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 53
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 15.02,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 15.2,
+          "ball": 2,
+          "number": 16,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 15.2
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "115020",
+        "speedKPH": "128.739",
+        "mediaId": 0,
+        "speedMPH": "79.995",
+        "shortText": "Jarvis to Mohammad Mithun, no run",
+        "sequence": 101502,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "67/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.36,
+          "fallOfWickets": 0,
+          "balls": 92,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 67,
+          "remainingBalls": 208,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.2,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 26
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 0,
+          "runs": 67,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 1
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          },
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          }
+        ]
+      },
+      {
+        "text": "full on off, hint of movement away, defended into the off side with soft hands.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 41,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 53
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 15.03,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 15.3,
+          "ball": 3,
+          "number": 16,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 15.3
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "115030",
+        "speedKPH": "129.980",
+        "mediaId": 0,
+        "speedMPH": "80.766",
+        "shortText": "Jarvis to Mohammad Mithun, no run",
+        "sequence": 101503,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "67/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.32,
+          "fallOfWickets": 0,
+          "balls": 93,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 67,
+          "remainingBalls": 207,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.3,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 27
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 0,
+          "runs": 67,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 2
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          },
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          }
+        ]
+      },
+      {
+        "text": "gets half a stride in to stab this length delivery on off stump.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 41,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 53
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 15.04,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 15.4,
+          "ball": 4,
+          "number": 16,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 15.4
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "115040",
+        "speedKPH": "130.025",
+        "mediaId": 0,
+        "speedMPH": "80.794",
+        "shortText": "Jarvis to Mohammad Mithun, no run",
+        "sequence": 101504,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "67/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.27,
+          "fallOfWickets": 0,
+          "balls": 94,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 67,
+          "remainingBalls": 206,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.4,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 28
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 0,
+          "runs": 67,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 3
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          },
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          }
+        ]
+      },
+      {
+        "text": "punched but can't pierce the packed off-side ring. The cover fielder puts his left hand out to stop that.",
+        "awayScore": "0",
+        "otherBatsman": {
+          "totalRuns": 41,
+          "runs": 0,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Imrul Kayes",
+            "id": "280734",
+            "displayName": "Imrul Kayes",
+            "shortName": "Imrul",
+            "fullName": "Imrul Kayes"
+          },
+          "fours": 4,
+          "sixes": 1,
+          "faced": 53
+        },
+        "team": {
+          "name": "Bangladesh",
+          "id": "25",
+          "abbreviation": "BDESH",
+          "displayName": "Bangladesh"
+        },
+        "over": {
+          "wide": 0,
+          "noBall": 0,
+          "wickets": 0,
+          "unique": 15.05,
+          "complete": false,
+          "balls": 6,
+          "runs": 1,
+          "maiden": 0,
+          "byes": 0,
+          "overs": 15.5,
+          "ball": 5,
+          "number": 16,
+          "limit": 50.0,
+          "legByes": 0,
+          "actual": 15.5
+        },
+        "period": 1,
+        "periodText": "1st innings",
+        "id": "115050",
+        "speedKPH": "125.650",
+        "mediaId": 0,
+        "speedMPH": "78.075",
+        "shortText": "Jarvis to Mohammad Mithun, no run",
+        "sequence": 101505,
+        "preText": "",
+        "scoreValue": 0,
+        "homeScore": "67/3",
+        "playType": {
+          "id": "2",
+          "description": "no run"
+        },
+        "dismissal": {
+          "bowled": false,
+          "minutes": 0,
+          "dismissal": false,
+          "batsman": {
+            "athlete": {
+              "name": "Mohammad Mithun",
+              "id": "269237",
+              "displayName": "Mohammad Mithun",
+              "shortName": "Mithun",
+              "fullName": "Mohammad Mithun"
+            }
+          },
+          "fielder": {
+            "athlete": {}
+          },
+          "retiredText": "",
+          "bowler": {
+            "athlete": {
+              "name": "Kyle Jarvis",
+              "id": "332996",
+              "displayName": "KM Jarvis",
+              "shortName": "Jarvis",
+              "fullName": "Kyle Jarvis"
+            }
+          },
+          "type": ""
+        },
+        "date": "2018-10-21T14:30",
+        "innings": {
+          "remainingOvers": 0.0,
+          "target": 0,
+          "wickets": 3,
+          "ballLimit": 300,
+          "noBalls": 0,
+          "runRate": 4.23,
+          "fallOfWickets": 0,
+          "balls": 95,
+          "byes": 0,
+          "wides": 0,
+          "id": "209641",
+          "totalRuns": 0,
+          "runs": 67,
+          "remainingBalls": 205,
+          "day": 1,
+          "number": 1,
+          "legByes": 0,
+          "session": 1
+        },
+        "bowler": {
+          "conceded": 14,
+          "maidens": 0,
+          "overs": 4.5,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "displayName": "KM Jarvis",
+            "shortName": "Jarvis",
+            "fullName": "Kyle Jarvis"
+          },
+          "wickets": 0,
+          "balls": 29
+        },
+        "clock": "00:00",
+        "otherBowler": {
+          "conceded": 7,
+          "maidens": 0,
+          "overs": 2.0,
+          "team": {
+            "name": "Zimbabwe",
+            "id": "9",
+            "abbreviation": "ZIM",
+            "displayName": "Zimbabwe"
+          },
+          "athlete": {
+            "name": "Brandon Mavuta",
+            "id": "806239",
+            "displayName": "B Mavuta",
+            "shortName": "Mavuta",
+            "fullName": "Brandon Mavuta"
+          },
+          "wickets": 1,
+          "balls": 12
+        },
+        "postText": "",
+        "batsman": {
+          "totalRuns": 0,
+          "runs": 67,
+          "team": {
+            "name": "Bangladesh",
+            "id": "25",
+            "abbreviation": "BDESH",
+            "displayName": "Bangladesh"
+          },
+          "athlete": {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "displayName": "Mohammad Mithun",
+            "shortName": "Mithun",
+            "fullName": "Mohammad Mithun"
+          },
+          "fours": 0,
+          "sixes": 0,
+          "faced": 4
+        },
+        "athletesInvolved": [
+          {
+            "name": "Mohammad Mithun",
+            "id": "269237",
+            "shortName": "Mithun",
+            "displayName": "Mohammad Mithun"
+          },
+          {
+            "name": "Kyle Jarvis",
+            "id": "332996",
+            "shortName": "Jarvis",
+            "displayName": "KM Jarvis"
+          }
+        ]
+      }
+    ],
+    "pageIndex": 4
+  }
+}
