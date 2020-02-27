@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+    <head><title>Coding for Entreprenuers</title></head>
+    <body>
+    	{% include "nav.html" %}
+    	<h1>{% block content_name %}
+    	{% endblock %}</h1>
+
+    	<h5>
+    		{% block content_sub_name %}
+    		{% endblock %}
+    	</h5>
+
+    	{% block content %}
+    		{% endblock %}
+    </body>
+
+ </html>

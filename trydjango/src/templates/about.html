@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content_name %}
+About Me
+{% endblock %}
+
+{% block content_sub_name %}
+	This is sub name from <strong>About page</strong>
+{% endblock %}
+
+{% block content %}
+	<p>
+		{{ my_text }} <br>
+		{{ my_number }} <br>
+	</p>
+	{{my_html|safe|title}}		
+
+	<ol>
+		{% for item in my_list %}
+
+			{% if item >= 50 %}
+				{{item}}
+			{% else %}
+			<li> {{forloop.counter}} -> {{item|add:25}}</li>
+			{% endif %}
+		{% endfor %}
+	</ol>
+{% endblock %}
